@@ -7,3 +7,6 @@ If the temperature is greater than or equal 30C turn on the fan with 25% of its 
 If the temperature is greater than or equal 60C turn on the fan with 50% of its maximum speed.
 If the temperature is greater than or equal 90C turn on the fan with 75% of its maximum speed.
 If the temperature is greater than or equal 120C turn on the fan with 100% of its maximum speed.
+
+## proteus
+<img src="Temperature Controller System.png">
